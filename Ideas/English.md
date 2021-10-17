@@ -1,4 +1,5 @@
 Phonetics (pronunciation and sound)
+
 Grammar
 - Sentence structure (German: subject, predicate, object) - think up for own language too
 - German: SPO - Who/what (subject) does what (predicate) with what? (object)
