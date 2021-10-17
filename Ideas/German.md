@@ -1,4 +1,5 @@
 Phonetik (Aussprache und Klang)
+
 Grammatik
 - Satzstruktur (Deutsch: Subjekt, Prädikat, Objekt) -  Eigene Sprache auch ausdenken
 - SPO - Wer/was (Subjekt) tut was (Prädikat) mit was? (Objekt)
